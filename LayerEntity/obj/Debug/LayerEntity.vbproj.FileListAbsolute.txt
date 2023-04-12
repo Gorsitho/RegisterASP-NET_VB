@@ -1,0 +1,10 @@
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\LayerEntity\bin\Debug\LayerEntity.dll
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\LayerEntity\bin\Debug\LayerEntity.pdb
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\LayerEntity\bin\Debug\LayerEntity.xml
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\LayerEntity\obj\Debug\LayerEntity.vbproj.AssemblyReference.cache
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\LayerEntity\obj\Debug\LayerEntity.Resources.resources
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\LayerEntity\obj\Debug\LayerEntity.vbproj.GenerateResource.cache
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\LayerEntity\obj\Debug\LayerEntity.vbproj.CoreCompileInputs.cache
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\LayerEntity\obj\Debug\LayerEntity.dll
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\LayerEntity\obj\Debug\LayerEntity.xml
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\LayerEntity\obj\Debug\LayerEntity.pdb

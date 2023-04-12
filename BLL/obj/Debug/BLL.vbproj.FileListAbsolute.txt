@@ -1,0 +1,17 @@
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\bin\Debug\BLL.dll
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\bin\Debug\BLL.pdb
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\bin\Debug\BLL.xml
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\bin\Debug\DAL.dll
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\bin\Debug\LayerEntity.dll
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\bin\Debug\DAL.pdb
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\bin\Debug\DAL.xml
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\bin\Debug\LayerEntity.pdb
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\bin\Debug\LayerEntity.xml
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\obj\Debug\BLL.vbproj.AssemblyReference.cache
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\obj\Debug\BLL.dll
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\obj\Debug\BLL.xml
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\BLL\obj\Debug\BLL.pdb

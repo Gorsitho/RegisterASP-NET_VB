@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# IDE0081: La palabra clave "ByVal" no es necesaria y se puede quitar.
+dotnet_diagnostic.IDE0081.severity = none

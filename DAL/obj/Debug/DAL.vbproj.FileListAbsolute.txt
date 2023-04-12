@@ -1,0 +1,14 @@
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\bin\Debug\DAL.dll
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\bin\Debug\DAL.pdb
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\bin\Debug\DAL.xml
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\bin\Debug\LayerEntity.dll
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\bin\Debug\LayerEntity.pdb
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\bin\Debug\LayerEntity.xml
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\obj\Debug\DAL.vbproj.AssemblyReference.cache
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\obj\Debug\DAL.vbproj.CopyComplete
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\obj\Debug\DAL.dll
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\obj\Debug\DAL.xml
+C:\Users\SergioDanielVelasque\source\repos\WebAppYTCRUD\DAL\obj\Debug\DAL.pdb
